@@ -1,0 +1,6 @@
+# ninja log v5
+640	756	1700652988097785832	Family_Tree	457a89d28924ead8
+6	639	1700652987980653038	CMakeFiles/Family_Tree.dir/Menu.cpp.o	91f312622590d043
+5	643	1699962085653007581	CMakeFiles/Family_Tree.dir/Tool.cpp.o	fe124de2851943f4
+5	654	1699962085663386431	CMakeFiles/Family_Tree.dir/FamilyTreeSystem.cpp.o	ccf1cf9872cff0c3
+4	633	1699962085642323609	CMakeFiles/Family_Tree.dir/Main.cpp.o	ba1d7af49520b16f
